@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @CHARITARTH-T
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m CHARITARTH-T
+- 👀 I’m interested a Computer Science Student
+- 🌱 I’m currently Studying at CVR COLLEGE OF ENGINEERING
 
 <!---
 CHARITARTH-T/CHARITARTH-T is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
